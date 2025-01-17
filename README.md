@@ -38,6 +38,11 @@ Each work contains:
 - **Documentation**: Explanations and theoretical background.
 - **Examples**: Practical applications and datasets for experimentation.
 
+## Collaborators
+
+- [Luis Baena](https://www.github.com/alejobaenam)
+- [Jesús Cantellón](https://www.github.com/JDavidCE2022)
+
 ## License
 
 This repository is open-source and available under the MIT License.
