@@ -11,8 +11,8 @@ This section covers:
 
 ### 2. **Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)**
 This section explores:
-- The **concept and methodology** behind SVD.
-- Applications of SVD for deriving **principal components** and creating **biplots**.
+- The concept and methodology behind SVD.
+- Applications of SVD for deriving principal components and creating biplots.
 - Practical examples using software for dimensionality reduction and data visualization.
 
 ### 3. **Clustering and Linear Regression Analysis**
@@ -25,12 +25,12 @@ This section includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multivariate-statistics.git
+   git clone https://github.com/alejobaenam/multivariate-statistics.git
    ```
 
 2. Navigate to the desired folder:
    ```bash
-   cd Work1
+   cd Practice_1
    ```
 
 Each work contains:
